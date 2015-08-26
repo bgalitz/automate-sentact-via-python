@@ -70,6 +70,9 @@ f.close()
 #at this point there should be no more lines to write either - close the error log
 e.close()
 
+#close firefox - we're done with peoplesoft
+driver.close()
+
 #get the datetime   
 now = datetime.datetime.now()
 
