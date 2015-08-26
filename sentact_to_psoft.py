@@ -11,9 +11,9 @@ driver = webdriver.Firefox()
 driver.get(#insert nmi address here!!!)
 #login to nmi
 elem = driver.find_element_by_name(#username?)
-elem.send_keys("bgalitz")
+elem.send_keys("username")
 elem = driver.find_element_by_name(#password?)
-elem.send_keys("Tagalog_1")
+elem.send_keys("password")
 elem.send_keys(Keys.RETURN)
 #navigate to express issue page
 
