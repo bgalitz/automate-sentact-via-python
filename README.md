@@ -5,7 +5,7 @@ Building a script interface for Sentact completed jobs into PeopleSoft Express I
 
 The workflow:
 Sentact sends text file via email every morning (for the previous day)
-The file represents items issued to floors via the warehouse
+The file represents all items issued to floors via the warehouse
 The file needs to be dumped to a specific folder (tbd)
 The job runs twice a day
   -it checks the folder
