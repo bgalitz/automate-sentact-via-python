@@ -1,5 +1,5 @@
 # automate-sentact-via-python
-Pilot
+Pilot project
 
 Building a script interface for Sentact completed jobs into PeopleSoft Express Issue
 
@@ -17,7 +17,7 @@ The job runs twice a day
 This essentially replaces the need for a person to issue the item in Sentact and then deduct the item from Peoplesoft.
 
 Current estimates are 200 items per day (on average). 
-At over a minute per entry - that's over 3 hours of redundant labor that this is saving.
+At over a minute per entry - that's over 3 hours of redundant labor that this autimatiin could save.
 In addition, the accuracy will increase for all the times staff is issuing but not deducting in a timely manner.
 
 The job is running a day behind but the accuracy will still be acheived.
